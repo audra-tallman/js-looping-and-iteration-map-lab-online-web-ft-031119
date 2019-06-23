@@ -4,4 +4,8 @@ function lowerCaseDrivers(list){
   });
 }
 
-function nameToAttributes()
+function nameToAttributes(list){
+  return list.map(functional(driver) {
+    cont driverFirst = driver.split
+  })
+}
